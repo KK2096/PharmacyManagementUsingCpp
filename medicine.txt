@@ -1,0 +1,8 @@
+ 1 MgCO3 20 80
+ 2 Paracetamol 5 90
+ 3 Peniclovir 6 60
+ 4 Al12 5 70
+ 5 alpha 20 90
+ 6 meta350 10 100
+ 20 po12 45 10
+ 450 kjoi554@#$ 66 78

@@ -1,0 +1,15 @@
+ 1 snehal MgCO3 2 40 40
+ 1 snehal Peniclovir 3 18 58
+ 2 samarth Al12 3 15 15
+ 2 samarth meta350 4 40 55
+ 2 samarth MgCO3 1 20 75
+ 3 neha meta350 3 30 30
+ 3 neha Paracetamol 3 15 45
+ 3 neha Al12 2 10 55
+ 4 karan Al12 4 20 20
+ 4 karan Peniclovir 3 18 38
+ 5 sanskruti meta350 4 40 40
+ 5 sanskruti Paracetamol 4 20 60
+
+ 8 arya Paracetamol 4 20 20
+ 8 arya MgCO3 2 40 60
